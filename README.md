@@ -1,25 +1,25 @@
-# CYBERTECH-MD-BOT
-
  <p align="center">  
   <a href="">
-    <img alt="CYBERTECH MD BOT" width "600" height "800" src="https://files.fm/f/qqf9v47633">
+    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
   </a>
 </p>
 
+
+
 <p align="center">
-<a href="https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-.git"><img title="Author" src="https://img.shields.io/badge/THE CYBERTECH BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/CYBERNETMDBOT?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/CYBERTECH-MD-BOT-?label=Followers&style=social"></a>
-<a href="https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CYBERTECH-MD-BOT?&style=social"></a>
-<a href="https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-?style=social"></a>
-<a href="https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-?label=Watching&style=social"></a>
+<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️ CYBERTECH-MD BOT🛡️</h1>
+<h1 align="center">🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️</h1>
 
-#### 🪩 To Change the owner number click here [Config](https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-/blob/main/config.js#L9)🪩
+#### 🪩 To Change the owner number click here [Config](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/config.js#L9)🪩
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -43,7 +43,7 @@
        <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/THE-PRINCE-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -55,7 +55,7 @@
 
 2. Now Deploy
     <br>
-<p align="left"><a href="https://repl.it/github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://repl.it/github/PRINCE-GDS/THE-PRINCE-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 <h2 align="left">DEPLOY TO KOYEB</h2> 
 
@@ -73,7 +73,7 @@
 
 
    <p align="left">
-      <a href="https://chat.whatsapp.com/E1MmhbJG0VDDq26Bj6PWfi"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
 
 
@@ -89,8 +89,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-
-$ cd CYBERTECH-MD-BOT-
+$ git clone https://github.com/PRINCE-GDS/THE-PRINCE-BOT
+$ cd THE-PRINCE-BOT
 $ npm i 
 $ npm start
 ```
@@ -98,9 +98,9 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits GABRIEL KORIR</h2>
+<h2 align="left">All Credits To Guru bruh</h2>
 
-<a href="https://github.com/CYBERTECH-MD-BOT-"><img src="https://github.com/CYBERTEKMDBOT.png" width="70" height="70" alt="GABRIEL KORIR"/></a>
+<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="70" height="70" alt="Guru322"/></a>
   
-`GABRIEL KORIR`
+`GURU-bhay Guru322`
 

@@ -1,11 +1,10 @@
-# CYBERTECH-MD-BOT-
+# CYBERTECH-MD-BOT
+
  <p align="center">  
   <a href="">
     <img alt="CYBERTECH MD BOT" width "600" height "800" src="https://files.fm/f/qqf9v47633">
   </a>
 </p>
-
-
 
 <p align="center">
 <a href="https://github.com/CYBERNETMDBOT/CYBERTECH-MD-BOT-.git"><img title="Author" src="https://img.shields.io/badge/THE CYBERTECH BOT-black?style=for-the-badge&logo=github"></a>
